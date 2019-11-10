@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\NataliaMacias3A\Venta_de gasolina\bin\Debug\Venta_de gasolina.exe.config
+C:\Users\Usuario\source\repos\NataliaMacias3A\Venta_de gasolina\bin\Debug\Venta_de gasolina.exe
+C:\Users\Usuario\source\repos\NataliaMacias3A\Venta_de gasolina\bin\Debug\Venta_de gasolina.pdb
+C:\Users\Usuario\source\repos\NataliaMacias3A\Venta_de gasolina\obj\Debug\Venta_de gasolina.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\NataliaMacias3A\Venta_de gasolina\obj\Debug\Venta_de gasolina.exe
+C:\Users\Usuario\source\repos\NataliaMacias3A\Venta_de gasolina\obj\Debug\Venta_de gasolina.pdb
